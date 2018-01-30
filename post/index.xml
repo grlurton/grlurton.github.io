@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on </title>
+    <link>https://grlurton.github.io/post/</link>
+    <description>Recent content in Posts on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018 Grégoire Lurton</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 -0800</lastBuildDate>
+    <atom:link href="/post/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Vaccination and Implementation Science</title>
+      <link>https://grlurton.github.io/post/vaccination_and_implementation/</link>
+      <pubDate>Wed, 28 Apr 2010 12:00:00 +0000</pubDate>
+      
+      <guid>https://grlurton.github.io/post/vaccination_and_implementation/</guid>
+      <description>&lt;p&gt;In quand le monde s&amp;rsquo;est fait nombre, Olivier Rey describes the emergence of statistics as a political and social tool. The book is a very good read, never reaching the aridity of some of Desrosieres or Porter pages. One very interesting passage is in the chapter about the early emergence of statistical thinking and how it interacted with and was challenged by different more established different intellectual traditions. As an example, Rey uses the early emergence and debates surrounding vaccination in late XVIIIth century Europe. An interesting aspect around it is the fact that, in its long term delineation, it is an example of what is currently being looked into as an Implementation Science problem. Here, the link between IS and the development of quantitative methods is very interesting.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

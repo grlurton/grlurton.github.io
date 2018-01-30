@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on </title>
+    <link>https://grlurton.github.io/project/</link>
+    <description>Recent content in Projects on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018 Grégoire Lurton</copyright>
+    <lastBuildDate>Fri, 29 Sep 2017 01:40:08 -0800</lastBuildDate>
+    <atom:link href="/project/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>XLQSI - Excel tool for laboratory quality improvement</title>
+      <link>https://grlurton.github.io/project/xlqsi/</link>
+      <pubDate>Fri, 29 Sep 2017 01:40:08 -0800</pubDate>
+      
+      <guid>https://grlurton.github.io/project/xlqsi/</guid>
+      <description>
+
+&lt;p&gt;The need for an Excel tool to collect data related to the continuous quality strengthening of laboratories was first raised by the Laboratory Systems
+Strengthening team in &lt;a href=&#34;https://www.go2itech.org/&#34; target=&#34;_blank&#34;&gt;ITech&lt;/a&gt;. In order to use the &lt;a href=&#34;https://extranet.who.int/lqsi/&#34; target=&#34;_blank&#34;&gt;Laboratory Quality Stepwise Implementation tool (LQSI)&lt;/a&gt; developed by the World Health Organization in and the Dutch Royal Tropical Institute (KIT), field teams needed a tool that would be easy to use, adaptable to specific conditions or local regulations in the field, and that would allow a better follow-up of laboratories progresses and results.&lt;/p&gt;
+
+&lt;p&gt;As part of a short term consultancy for ITech, I developped an Excel based and Python enriched workbook, to help for the collection of the highly dimensional of LQSI tool. Using the &lt;em&gt;xlwings&lt;/em&gt; package and add-in for advanced data manipulation in Excel, the tool allows the user to:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Adapt the generic checklist to local norms and conditions&lt;/li&gt;
+&lt;li&gt;Directly import data from electronic equipment registries&lt;/li&gt;
+&lt;li&gt;Enter data in a simplified list, with completude checks and progression bars to help with the multipliciy of indicators&lt;/li&gt;
+&lt;li&gt;Visualize the results of a mentoring session&lt;/li&gt;
+&lt;li&gt;Visualize the progression of laboratories in time&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;more-details&#34;&gt;More details&lt;/h2&gt;
+
+&lt;p&gt;Documentation: &lt;a href=&#34;https://grlurton.github.io/xlqsi/html/&#34; target=&#34;_blank&#34;&gt;html&lt;/a&gt; , &lt;a href=&#34;https://github.com/grlurton/xlqsi/raw/master/docs/latex/XLQSI.pdf&#34; target=&#34;_blank&#34;&gt;pdf&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Full project: &lt;a href=&#34;https://github.com/grlurton/xlqsi&#34; target=&#34;_blank&#34;&gt;Github&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Data verification targetting for Results Based Funding</title>
+      <link>https://grlurton.github.io/project/openrbf_rbv/</link>
+      <pubDate>Sat, 29 Jul 2017 01:45:39 -0800</pubDate>
+      
+      <guid>https://grlurton.github.io/project/openrbf_rbv/</guid>
+      <description>
+
+&lt;p&gt;OpenRBF is a solution used in many countries to track results and payments in Results Based Funding programs in developing countries. In most programs using OpenRBF, facilities submit monthly reports to the financing entity. These reports are then verified by on site supervisions, and payments are made on the verified data. This full verification ensures the accuracy of the payments made, but is costly to implement. This project aimed at defining and testing algorithms to orient program managers willing to only verify subsets of the data reported each month.&lt;/p&gt;
+
+&lt;p&gt;I developped a generic framework to define and test algorithms to orient the on-site validation of reports from health facilities. I then implemented this framework in a Python module that allows an easy implementation of the algorithms and allows easy simulations to test and validate the algorithms. I implemented an algorithm empirically developed by Mathieu Anthony from AEDES, and compared it to two simple alternatives. Finally, I offered an applied decision framework for decision makers to help chosing the preferred trade-off between operational costs and overpayment.&lt;/p&gt;
+
+&lt;h1 id=&#34;more-details&#34;&gt;More Details&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://grlurton.github.io/orbf_data_validation/Analysis.html&#34; target=&#34;_blank&#34;&gt;Synthesis of the methods and results&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://grlurton.github.io/orbf_data_validation/html/index.html&#34; target=&#34;_blank&#34;&gt;Technical documentation for algorithm implementation and testing module&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

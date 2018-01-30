@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title></title>
+    <link>https://grlurton.github.io/</link>
+    <description>Recent content on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018 Grégoire Lurton</copyright>
+    <lastBuildDate>Wed, 20 Dec 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>How to build Global Health Knowledge: norming or aggregation?</title>
+      <link>https://grlurton.github.io/talk/2017_ehess/</link>
+      <pubDate>Tue, 24 Oct 2017 18:25:21 -0800</pubDate>
+      
+      <guid>https://grlurton.github.io/talk/2017_ehess/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Defining a supervision strategy using artificial intelligence (AI) - The case of data supervision for the results based financing intervention in Benin</title>
+      <link>https://grlurton.github.io/talk/2017_supervision_ai/</link>
+      <pubDate>Tue, 17 Oct 2017 00:00:00 -0700</pubDate>
+      
+      <guid>https://grlurton.github.io/talk/2017_supervision_ai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>XLQSI - Excel tool for laboratory quality improvement</title>
+      <link>https://grlurton.github.io/project/xlqsi/</link>
+      <pubDate>Fri, 29 Sep 2017 01:40:08 -0800</pubDate>
+      
+      <guid>https://grlurton.github.io/project/xlqsi/</guid>
+      <description>
+
+&lt;p&gt;The need for an Excel tool to collect data related to the continuous quality strengthening of laboratories was first raised by the Laboratory Systems
+Strengthening team in &lt;a href=&#34;https://www.go2itech.org/&#34; target=&#34;_blank&#34;&gt;ITech&lt;/a&gt;. In order to use the &lt;a href=&#34;https://extranet.who.int/lqsi/&#34; target=&#34;_blank&#34;&gt;Laboratory Quality Stepwise Implementation tool (LQSI)&lt;/a&gt; developed by the World Health Organization in and the Dutch Royal Tropical Institute (KIT), field teams needed a tool that would be easy to use, adaptable to specific conditions or local regulations in the field, and that would allow a better follow-up of laboratories progresses and results.&lt;/p&gt;
+
+&lt;p&gt;As part of a short term consultancy for ITech, I developped an Excel based and Python enriched workbook, to help for the collection of the highly dimensional of LQSI tool. Using the &lt;em&gt;xlwings&lt;/em&gt; package and add-in for advanced data manipulation in Excel, the tool allows the user to:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Adapt the generic checklist to local norms and conditions&lt;/li&gt;
+&lt;li&gt;Directly import data from electronic equipment registries&lt;/li&gt;
+&lt;li&gt;Enter data in a simplified list, with completude checks and progression bars to help with the multipliciy of indicators&lt;/li&gt;
+&lt;li&gt;Visualize the results of a mentoring session&lt;/li&gt;
+&lt;li&gt;Visualize the progression of laboratories in time&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;more-details&#34;&gt;More details&lt;/h2&gt;
+
+&lt;p&gt;Documentation: &lt;a href=&#34;https://grlurton.github.io/xlqsi/html/&#34; target=&#34;_blank&#34;&gt;html&lt;/a&gt; , &lt;a href=&#34;https://github.com/grlurton/xlqsi/raw/master/docs/latex/XLQSI.pdf&#34; target=&#34;_blank&#34;&gt;pdf&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Full project: &lt;a href=&#34;https://github.com/grlurton/xlqsi&#34; target=&#34;_blank&#34;&gt;Github&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Data verification targetting for Results Based Funding</title>
+      <link>https://grlurton.github.io/project/openrbf_rbv/</link>
+      <pubDate>Sat, 29 Jul 2017 01:45:39 -0800</pubDate>
+      
+      <guid>https://grlurton.github.io/project/openrbf_rbv/</guid>
+      <description>
+
+&lt;p&gt;OpenRBF is a solution used in many countries to track results and payments in Results Based Funding programs in developing countries. In most programs using OpenRBF, facilities submit monthly reports to the financing entity. These reports are then verified by on site supervisions, and payments are made on the verified data. This full verification ensures the accuracy of the payments made, but is costly to implement. This project aimed at defining and testing algorithms to orient program managers willing to only verify subsets of the data reported each month.&lt;/p&gt;
+
+&lt;p&gt;I developped a generic framework to define and test algorithms to orient the on-site validation of reports from health facilities. I then implemented this framework in a Python module that allows an easy implementation of the algorithms and allows easy simulations to test and validate the algorithms. I implemented an algorithm empirically developed by Mathieu Anthony from AEDES, and compared it to two simple alternatives. Finally, I offered an applied decision framework for decision makers to help chosing the preferred trade-off between operational costs and overpayment.&lt;/p&gt;
+
+&lt;h1 id=&#34;more-details&#34;&gt;More Details&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://grlurton.github.io/orbf_data_validation/Analysis.html&#34; target=&#34;_blank&#34;&gt;Synthesis of the methods and results&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://grlurton.github.io/orbf_data_validation/html/index.html&#34; target=&#34;_blank&#34;&gt;Technical documentation for algorithm implementation and testing module&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Evaluation of the benefit of different complementary exams in the search for a TB diagnosis algorithm for HIV patients put on ART in Niamey, Niger</title>
+      <link>https://grlurton.github.io/publication/2016_tuberculosis_niger/</link>
+      <pubDate>Tue, 15 Nov 2016 00:00:00 -0800</pubDate>
+      
+      <guid>https://grlurton.github.io/publication/2016_tuberculosis_niger/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The role of implementation science training in global health: from the perspective of graduates of the field’s first dedicated doctoral program</title>
+      <link>https://grlurton.github.io/publication/2016_role_implementation_science/</link>
+      <pubDate>Mon, 14 Nov 2016 00:00:00 -0800</pubDate>
+      
+      <guid>https://grlurton.github.io/publication/2016_role_implementation_science/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Investigating the remuneration of health workers in the DR Congo: implications for the health workforce and the health system in a fragile setting</title>
+      <link>https://grlurton.github.io/publication/2016_hrh_rdc/</link>
+      <pubDate>Mon, 11 Jan 2016 00:00:00 -0800</pubDate>
+      
+      <guid>https://grlurton.github.io/publication/2016_hrh_rdc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multiple self-report measures of antiretroviral adherence correlated in Sierra Leone, but did they agree?</title>
+      <link>https://grlurton.github.io/publication/2013_observance_sierra_leone/</link>
+      <pubDate>Sun, 01 Dec 2013 00:00:00 -0800</pubDate>
+      
+      <guid>https://grlurton.github.io/publication/2013_observance_sierra_leone/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Seroprevalence of human immunodeficiency virus, hepatitis B virus and hepatitis C virus among blood donors in Segou, Mali</title>
+      <link>https://grlurton.github.io/publication/2012_seroprevalence_segou/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 -0800</pubDate>
+      
+      <guid>https://grlurton.github.io/publication/2012_seroprevalence_segou/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Prise en charge clinique de l&#39;infection VIH dans les pays à ressources limitées</title>
+      <link>https://grlurton.github.io/publication/2011_vih/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 -0800</pubDate>
+      
+      <guid>https://grlurton.github.io/publication/2011_vih/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vaccination and Implementation Science</title>
+      <link>https://grlurton.github.io/post/vaccination_and_implementation/</link>
+      <pubDate>Wed, 28 Apr 2010 12:00:00 +0000</pubDate>
+      
+      <guid>https://grlurton.github.io/post/vaccination_and_implementation/</guid>
+      <description>&lt;p&gt;In quand le monde s&amp;rsquo;est fait nombre, Olivier Rey describes the emergence of statistics as a political and social tool. The book is a very good read, never reaching the aridity of some of Desrosieres or Porter pages. One very interesting passage is in the chapter about the early emergence of statistical thinking and how it interacted with and was challenged by different more established different intellectual traditions. As an example, Rey uses the early emergence and debates surrounding vaccination in late XVIIIth century Europe. An interesting aspect around it is the fact that, in its long term delineation, it is an example of what is currently being looked into as an Implementation Science problem. Here, the link between IS and the development of quantitative methods is very interesting.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

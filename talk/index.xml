@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Presentations on </title>
+    <link>https://grlurton.github.io/talk/</link>
+    <description>Recent content in Presentations on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018 Grégoire Lurton</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/talk/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>How to build Global Health Knowledge: norming or aggregation?</title>
+      <link>https://grlurton.github.io/talk/2017_ehess/</link>
+      <pubDate>Tue, 24 Oct 2017 18:25:21 -0800</pubDate>
+      
+      <guid>https://grlurton.github.io/talk/2017_ehess/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Defining a supervision strategy using artificial intelligence (AI) - The case of data supervision for the results based financing intervention in Benin</title>
+      <link>https://grlurton.github.io/talk/2017_supervision_ai/</link>
+      <pubDate>Tue, 17 Oct 2017 00:00:00 -0700</pubDate>
+      
+      <guid>https://grlurton.github.io/talk/2017_supervision_ai/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
