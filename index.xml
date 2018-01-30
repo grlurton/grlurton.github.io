@@ -30,10 +30,10 @@
     
     <item>
       <title>XLQSI - Excel tool for laboratory quality improvement</title>
-      <link>https://grlurton.github.io/project/xlqsi/</link>
+      <link>https://grlurton.github.io/project/2017_xlqsi/</link>
       <pubDate>Fri, 29 Sep 2017 01:40:08 -0800</pubDate>
       
-      <guid>https://grlurton.github.io/project/xlqsi/</guid>
+      <guid>https://grlurton.github.io/project/2017_xlqsi/</guid>
       <description>
 
 &lt;p&gt;The need for an Excel tool to collect data related to the continuous quality strengthening of laboratories was first raised by the Laboratory Systems
@@ -59,10 +59,10 @@ Strengthening team in &lt;a href=&#34;https://www.go2itech.org/&#34; target=&#34
     
     <item>
       <title>Data verification targetting for Results Based Funding</title>
-      <link>https://grlurton.github.io/project/openrbf_rbv/</link>
+      <link>https://grlurton.github.io/project/2017_openrbf_rbv/</link>
       <pubDate>Sat, 29 Jul 2017 01:45:39 -0800</pubDate>
       
-      <guid>https://grlurton.github.io/project/openrbf_rbv/</guid>
+      <guid>https://grlurton.github.io/project/2017_openrbf_rbv/</guid>
       <description>
 
 &lt;p&gt;OpenRBF is a solution used in many countries to track results and payments in Results Based Funding programs in developing countries. In most programs using OpenRBF, facilities submit monthly reports to the financing entity. These reports are then verified by on site supervisions, and payments are made on the verified data. This full verification ensures the accuracy of the payments made, but is costly to implement. This project aimed at defining and testing algorithms to orient program managers willing to only verify subsets of the data reported each month.&lt;/p&gt;
@@ -130,16 +130,6 @@ Strengthening team in &lt;a href=&#34;https://www.go2itech.org/&#34; target=&#34
       
       <guid>https://grlurton.github.io/publication/2011_vih/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Vaccination and Implementation Science</title>
-      <link>https://grlurton.github.io/post/vaccination_and_implementation/</link>
-      <pubDate>Wed, 28 Apr 2010 12:00:00 +0000</pubDate>
-      
-      <guid>https://grlurton.github.io/post/vaccination_and_implementation/</guid>
-      <description>&lt;p&gt;In quand le monde s&amp;rsquo;est fait nombre, Olivier Rey describes the emergence of statistics as a political and social tool. The book is a very good read, never reaching the aridity of some of Desrosieres or Porter pages. One very interesting passage is in the chapter about the early emergence of statistical thinking and how it interacted with and was challenged by different more established different intellectual traditions. As an example, Rey uses the early emergence and debates surrounding vaccination in late XVIIIth century Europe. An interesting aspect around it is the fact that, in its long term delineation, it is an example of what is currently being looked into as an Implementation Science problem. Here, the link between IS and the development of quantitative methods is very interesting.&lt;/p&gt;
-</description>
     </item>
     
   </channel>
