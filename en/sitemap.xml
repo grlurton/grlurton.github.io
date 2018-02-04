@@ -6,7 +6,7 @@
     <url>
     
       <loc>https://grlurton.github.io/talk/2017_ehess/</loc>
-      <lastmod>2017-10-24T18:25:21-08:00</lastmod>
+      <lastmod>2017-10-24T00:01:54-08:00</lastmod>
     </url>
     
   
@@ -15,7 +15,7 @@
     <url>
     
       <loc>https://grlurton.github.io/talk/2017_supervision_ai/</loc>
-      <lastmod>2017-10-17T00:00:00-07:00</lastmod>
+      <lastmod>2017-10-17T00:01:54-08:00</lastmod>
     </url>
     
   
@@ -98,6 +98,15 @@
     
     <url>
     
+      <loc>https://grlurton.github.io/publication/2015_congo_report/</loc>
+      <lastmod>2015-12-01T00:00:00-08:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://grlurton.github.io/publication/2015_africa4/</loc>
       <lastmod>2015-08-06T00:00:00-07:00</lastmod>
     </url>
@@ -125,8 +134,53 @@
     
     <url>
     
+      <loc>https://grlurton.github.io/talk/2012_uw_seminar/</loc>
+      <lastmod>2012-03-12T00:01:54-08:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://grlurton.github.io/talk/2012_miami_sierra_leone_adherence/</loc>
+      <lastmod>2012-02-01T13:36:17-08:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://grlurton.github.io/talk/2012_geneve/</loc>
+      <lastmod>2012-02-01T10:28:22-08:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://grlurton.github.io/publication/2012_seroprevalence_segou/</loc>
       <lastmod>2012-01-01T00:00:00-08:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://grlurton.github.io/talk/2011_addis_uncertainty/</loc>
+      <lastmod>2011-11-05T17:38:17-08:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://grlurton.github.io/talk/2011_addis_madagascar_talk/</loc>
+      <lastmod>2011-02-01T10:29:01-08:00</lastmod>
     </url>
     
   
@@ -143,6 +197,42 @@
     
     <url>
     
+      <loc>https://grlurton.github.io/talk/2010_segou_ptme_casablanca/</loc>
+      <lastmod>2010-03-31T17:31:51-08:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://grlurton.github.io/talk/2010_segou_art_suivi/</loc>
+      <lastmod>2010-03-31T17:26:50-08:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://grlurton.github.io/talk/2009_biovision/</loc>
+      <lastmod>2009-03-11T17:24:10-08:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://grlurton.github.io/talk/2008_icasa_pdv/</loc>
+      <lastmod>2008-12-02T17:15:32-08:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://grlurton.github.io/publication/2007_emploi_non_salarie/</loc>
       <lastmod>2007-09-26T00:00:00-07:00</lastmod>
     </url>
@@ -152,11 +242,18 @@
     
     <url>
     
-      <xhtml:link rel="alternate" href="https://grlurton.github.io/" hreflang="en"/>
-      <xhtml:link rel="alternate" href="https://grlurton.github.io/fr/" hreflang="fr"/>
+      <loc>https://grlurton.github.io/talks_types/0/</loc>
+      <lastmod>2017-10-24T00:01:54-08:00</lastmod>
+      <priority>0</priority>
+    </url>
     
-      <loc>https://grlurton.github.io/</loc>
-      <lastmod>2017-12-20T00:00:00+00:00</lastmod>
+  
+    
+    
+    <url>
+    
+      <loc>https://grlurton.github.io/talks_types/1/</loc>
+      <lastmod>2012-02-01T10:28:22-08:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -167,6 +264,16 @@
     
       <loc>https://grlurton.github.io/publication_types/2/</loc>
       <lastmod>2016-11-15T00:00:00-08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://grlurton.github.io/talks_types/2/</loc>
+      <lastmod>2012-03-12T00:01:54-08:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -205,6 +312,16 @@
     
     <url>
     
+      <loc>https://grlurton.github.io/publication_types/8/</loc>
+      <lastmod>2015-12-01T00:00:00-08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://grlurton.github.io/tags/africa/</loc>
       <lastmod>2015-08-06T00:00:00-07:00</lastmod>
       <priority>0</priority>
@@ -216,7 +333,17 @@
     <url>
     
       <loc>https://grlurton.github.io/tags/b%C3%A9nin/</loc>
-      <lastmod>2017-10-17T00:00:00-07:00</lastmod>
+      <lastmod>2017-10-17T00:01:54-08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://grlurton.github.io/tags/capacity-strengthening/</loc>
+      <lastmod>2009-03-11T17:24:10-08:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -307,8 +434,41 @@
     
     <url>
     
+      <loc>https://grlurton.github.io/tags/forecasting/</loc>
+      <lastmod>2012-02-01T10:28:22-08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://grlurton.github.io/tags/global-health/</loc>
-      <lastmod>2017-10-24T18:25:21-08:00</lastmod>
+      <lastmod>2017-10-24T00:01:54-08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="https://grlurton.github.io/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="https://grlurton.github.io/fr/" hreflang="fr"/>
+    
+      <loc>https://grlurton.github.io/</loc>
+      <lastmod>2017-12-20T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://grlurton.github.io/tags/guinea/</loc>
+      <lastmod>2012-03-12T00:01:54-08:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -408,7 +568,7 @@
     <url>
     
       <loc>https://grlurton.github.io/tags/machine-learning/</loc>
-      <lastmod>2017-10-17T00:00:00-07:00</lastmod>
+      <lastmod>2017-10-17T00:01:54-08:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -467,8 +627,28 @@
     
     <url>
     
+      <loc>https://grlurton.github.io/tags/pmtct/</loc>
+      <lastmod>2010-03-31T17:31:51-08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://grlurton.github.io/tags/primary-health-care/</loc>
       <lastmod>2017-07-29T01:45:39-08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://grlurton.github.io/tags/procurement-systems/</loc>
+      <lastmod>2011-11-05T17:38:17-08:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -501,7 +681,7 @@
     <url>
     
       <loc>https://grlurton.github.io/tags/results-based-funding/</loc>
-      <lastmod>2017-10-17T00:00:00-07:00</lastmod>
+      <lastmod>2017-10-17T00:01:54-08:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -521,7 +701,7 @@
     <url>
     
       <loc>https://grlurton.github.io/tags/statistical-systems/</loc>
-      <lastmod>2017-10-24T18:25:21-08:00</lastmod>
+      <lastmod>2017-10-24T00:01:54-08:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -545,6 +725,19 @@
     
       <loc>https://grlurton.github.io/tags/</loc>
       <lastmod>2015-08-06T00:00:00-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="https://grlurton.github.io/talks_types/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="https://grlurton.github.io/fr/talks_types/" hreflang="fr"/>
+    
+      <loc>https://grlurton.github.io/talks_types/</loc>
+      <lastmod>2017-10-24T00:01:54-08:00</lastmod>
       <priority>0</priority>
     </url>
     

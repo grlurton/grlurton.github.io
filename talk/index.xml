@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Presentations on </title>
+    <title>Presentations on Grégoire Lurton</title>
     <link>https://grlurton.github.io/talk/</link>
-    <description>Recent content in Presentations on </description>
+    <description>Recent content in Presentations on Grégoire Lurton</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Grégoire Lurton</copyright>
@@ -13,7 +13,7 @@
     <item>
       <title>How to build Global Health Knowledge: norming or aggregation?</title>
       <link>https://grlurton.github.io/talk/2017_ehess/</link>
-      <pubDate>Tue, 24 Oct 2017 18:25:21 -0800</pubDate>
+      <pubDate>Tue, 24 Oct 2017 00:01:54 -0800</pubDate>
       
       <guid>https://grlurton.github.io/talk/2017_ehess/</guid>
       <description></description>
@@ -22,9 +22,90 @@
     <item>
       <title>Defining a supervision strategy using artificial intelligence (AI) - The case of data supervision for the results based financing intervention in Benin</title>
       <link>https://grlurton.github.io/talk/2017_supervision_ai/</link>
-      <pubDate>Tue, 17 Oct 2017 00:00:00 -0700</pubDate>
+      <pubDate>Tue, 17 Oct 2017 00:01:54 -0800</pubDate>
       
       <guid>https://grlurton.github.io/talk/2017_supervision_ai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Strengthening Health Information Systems for HIV/AIDS care in Low Resource Countries - Experience of French NGO Solthis</title>
+      <link>https://grlurton.github.io/talk/2012_uw_seminar/</link>
+      <pubDate>Mon, 12 Mar 2012 00:01:54 -0800</pubDate>
+      
+      <guid>https://grlurton.github.io/talk/2012_uw_seminar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ART ineligibility confers High Risk of poor Retention in the Pre-ART period among persons newly diagnosed with HIV infection in Sierra Leone</title>
+      <link>https://grlurton.github.io/talk/2012_miami_sierra_leone_adherence/</link>
+      <pubDate>Wed, 01 Feb 2012 13:36:17 -0800</pubDate>
+      
+      <guid>https://grlurton.github.io/talk/2012_miami_sierra_leone_adherence/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Enjeu de la prévision des besoins avec des données faibles : Expérience d’utilisation de projections par scénarios en Guinée</title>
+      <link>https://grlurton.github.io/talk/2012_geneve/</link>
+      <pubDate>Wed, 01 Feb 2012 10:28:22 -0800</pubDate>
+      
+      <guid>https://grlurton.github.io/talk/2012_geneve/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dealing with uncertainty the challenge of long term projections in low data resources countries</title>
+      <link>https://grlurton.github.io/talk/2011_addis_uncertainty/</link>
+      <pubDate>Sat, 05 Nov 2011 17:38:17 -0800</pubDate>
+      
+      <guid>https://grlurton.github.io/talk/2011_addis_uncertainty/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contribution de la virologie moléculaire à la compréhension de l’épidémie VIH de Madagascar</title>
+      <link>https://grlurton.github.io/talk/2011_addis_madagascar_talk/</link>
+      <pubDate>Tue, 01 Feb 2011 10:29:01 -0800</pubDate>
+      
+      <guid>https://grlurton.github.io/talk/2011_addis_madagascar_talk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Délégation de la prescription des antirétroviraux aux paramédicaux dans la PTME à Ségou (Mali)</title>
+      <link>https://grlurton.github.io/talk/2010_segou_ptme_casablanca/</link>
+      <pubDate>Wed, 31 Mar 2010 17:31:51 -0800</pubDate>
+      
+      <guid>https://grlurton.github.io/talk/2010_segou_ptme_casablanca/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evolution de la prise en charge du VIH à Ségou entre 2003 et 2009</title>
+      <link>https://grlurton.github.io/talk/2010_segou_art_suivi/</link>
+      <pubDate>Wed, 31 Mar 2010 17:26:50 -0800</pubDate>
+      
+      <guid>https://grlurton.github.io/talk/2010_segou_art_suivi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Technical Assistance to improve HIV National Information System in Niger</title>
+      <link>https://grlurton.github.io/talk/2009_biovision/</link>
+      <pubDate>Wed, 11 Mar 2009 17:24:10 -0800</pubDate>
+      
+      <guid>https://grlurton.github.io/talk/2009_biovision/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Les patients perdus de vue dans la file active de la région de Ségou, Mali</title>
+      <link>https://grlurton.github.io/talk/2008_icasa_pdv/</link>
+      <pubDate>Tue, 02 Dec 2008 17:15:32 -0800</pubDate>
+      
+      <guid>https://grlurton.github.io/talk/2008_icasa_pdv/</guid>
       <description></description>
     </item>
     

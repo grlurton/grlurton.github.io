@@ -23,19 +23,6 @@
     
     <url>
     
-      <xhtml:link rel="alternate" href="https://grlurton.github.io/fr/" hreflang="fr"/>
-      <xhtml:link rel="alternate" href="https://grlurton.github.io/" hreflang="en"/>
-    
-      <loc>https://grlurton.github.io/fr/</loc>
-      <lastmod>2016-04-20T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
       <xhtml:link rel="alternate" href="https://grlurton.github.io/fr/categories/" hreflang="fr"/>
       <xhtml:link rel="alternate" href="https://grlurton.github.io/categories/" hreflang="en"/>
     
@@ -50,6 +37,19 @@
     
       <loc>https://grlurton.github.io/fr/tags/citation/</loc>
       <lastmod>2011-05-06T12:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="https://grlurton.github.io/fr/" hreflang="fr"/>
+      <xhtml:link rel="alternate" href="https://grlurton.github.io/" hreflang="en"/>
+    
+      <loc>https://grlurton.github.io/fr/</loc>
+      <lastmod>2016-04-20T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -98,6 +98,18 @@
     
       <loc>https://grlurton.github.io/fr/tags/</loc>
       <lastmod>2011-05-06T12:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="https://grlurton.github.io/fr/talks_types/" hreflang="fr"/>
+      <xhtml:link rel="alternate" href="https://grlurton.github.io/talks_types/" hreflang="en"/>
+    
+      <loc>https://grlurton.github.io/fr/talks_types/</loc>
       <priority>0</priority>
     </url>
     

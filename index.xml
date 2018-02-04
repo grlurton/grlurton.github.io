@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title></title>
+    <title>Grégoire Lurton on Grégoire Lurton</title>
     <link>https://grlurton.github.io/</link>
-    <description>Recent content on </description>
+    <description>Recent content in Grégoire Lurton on Grégoire Lurton</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Grégoire Lurton</copyright>
@@ -13,7 +13,7 @@
     <item>
       <title>How to build Global Health Knowledge: norming or aggregation?</title>
       <link>https://grlurton.github.io/talk/2017_ehess/</link>
-      <pubDate>Tue, 24 Oct 2017 18:25:21 -0800</pubDate>
+      <pubDate>Tue, 24 Oct 2017 00:01:54 -0800</pubDate>
       
       <guid>https://grlurton.github.io/talk/2017_ehess/</guid>
       <description></description>
@@ -22,7 +22,7 @@
     <item>
       <title>Defining a supervision strategy using artificial intelligence (AI) - The case of data supervision for the results based financing intervention in Benin</title>
       <link>https://grlurton.github.io/talk/2017_supervision_ai/</link>
-      <pubDate>Tue, 17 Oct 2017 00:00:00 -0700</pubDate>
+      <pubDate>Tue, 17 Oct 2017 00:01:54 -0800</pubDate>
       
       <guid>https://grlurton.github.io/talk/2017_supervision_ai/</guid>
       <description></description>
@@ -58,7 +58,7 @@ Strengthening team in &lt;a href=&#34;https://www.go2itech.org/&#34; target=&#34
     </item>
     
     <item>
-      <title>Data verification targetting for Results Based Funding</title>
+      <title>Targetting data verification in Results Based Funding programs</title>
       <link>https://grlurton.github.io/project/2017_openrbf_rbv/</link>
       <pubDate>Sat, 29 Jul 2017 01:45:39 -0800</pubDate>
       
@@ -106,6 +106,15 @@ Strengthening team in &lt;a href=&#34;https://www.go2itech.org/&#34; target=&#34
     </item>
     
     <item>
+      <title>Disponibilité et rémunération des ressources humaines pour la santé en RDC. Rapport Final</title>
+      <link>https://grlurton.github.io/publication/2015_congo_report/</link>
+      <pubDate>Tue, 01 Dec 2015 00:00:00 -0800</pubDate>
+      
+      <guid>https://grlurton.github.io/publication/2015_congo_report/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Compter pour gouverner : statistiques et populations</title>
       <link>https://grlurton.github.io/publication/2015_africa4/</link>
       <pubDate>Thu, 06 Aug 2015 00:00:00 -0700</pubDate>
@@ -133,29 +142,38 @@ Strengthening team in &lt;a href=&#34;https://www.go2itech.org/&#34; target=&#34
     </item>
     
     <item>
+      <title>Strengthening Health Information Systems for HIV/AIDS care in Low Resource Countries - Experience of French NGO Solthis</title>
+      <link>https://grlurton.github.io/talk/2012_uw_seminar/</link>
+      <pubDate>Mon, 12 Mar 2012 00:01:54 -0800</pubDate>
+      
+      <guid>https://grlurton.github.io/talk/2012_uw_seminar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ART ineligibility confers High Risk of poor Retention in the Pre-ART period among persons newly diagnosed with HIV infection in Sierra Leone</title>
+      <link>https://grlurton.github.io/talk/2012_miami_sierra_leone_adherence/</link>
+      <pubDate>Wed, 01 Feb 2012 13:36:17 -0800</pubDate>
+      
+      <guid>https://grlurton.github.io/talk/2012_miami_sierra_leone_adherence/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Enjeu de la prévision des besoins avec des données faibles : Expérience d’utilisation de projections par scénarios en Guinée</title>
+      <link>https://grlurton.github.io/talk/2012_geneve/</link>
+      <pubDate>Wed, 01 Feb 2012 10:28:22 -0800</pubDate>
+      
+      <guid>https://grlurton.github.io/talk/2012_geneve/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Seroprevalence of human immunodeficiency virus, hepatitis B virus and hepatitis C virus among blood donors in Segou, Mali</title>
       <link>https://grlurton.github.io/publication/2012_seroprevalence_segou/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 -0800</pubDate>
       
       <guid>https://grlurton.github.io/publication/2012_seroprevalence_segou/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Prise en charge clinique de l&#39;infection VIH dans les pays à ressources limitées</title>
-      <link>https://grlurton.github.io/publication/2011_vih/</link>
-      <pubDate>Sat, 01 Jan 2011 00:00:00 -0800</pubDate>
-      
-      <guid>https://grlurton.github.io/publication/2011_vih/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Les déterminants de l&#39;emploi non-salarié en France depuis 1970</title>
-      <link>https://grlurton.github.io/publication/2007_emploi_non_salarie/</link>
-      <pubDate>Wed, 26 Sep 2007 00:00:00 -0700</pubDate>
-      
-      <guid>https://grlurton.github.io/publication/2007_emploi_non_salarie/</guid>
       <description></description>
     </item>
     

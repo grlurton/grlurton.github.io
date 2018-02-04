@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects on </title>
+    <title>Projects on Grégoire Lurton</title>
     <link>https://grlurton.github.io/project/</link>
-    <description>Recent content in Projects on </description>
+    <description>Recent content in Projects on Grégoire Lurton</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Grégoire Lurton</copyright>
@@ -40,7 +40,7 @@ Strengthening team in &lt;a href=&#34;https://www.go2itech.org/&#34; target=&#34
     </item>
     
     <item>
-      <title>Data verification targetting for Results Based Funding</title>
+      <title>Targetting data verification in Results Based Funding programs</title>
       <link>https://grlurton.github.io/project/2017_openrbf_rbv/</link>
       <pubDate>Sat, 29 Jul 2017 01:45:39 -0800</pubDate>
       

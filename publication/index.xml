@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications on </title>
+    <title>Publications on Grégoire Lurton</title>
     <link>https://grlurton.github.io/publication/</link>
-    <description>Recent content in Publications on </description>
+    <description>Recent content in Publications on Grégoire Lurton</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Grégoire Lurton</copyright>
@@ -34,6 +34,15 @@
       <pubDate>Mon, 11 Jan 2016 00:00:00 -0800</pubDate>
       
       <guid>https://grlurton.github.io/publication/2016_hrh_rdc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Disponibilité et rémunération des ressources humaines pour la santé en RDC. Rapport Final</title>
+      <link>https://grlurton.github.io/publication/2015_congo_report/</link>
+      <pubDate>Tue, 01 Dec 2015 00:00:00 -0800</pubDate>
+      
+      <guid>https://grlurton.github.io/publication/2015_congo_report/</guid>
       <description></description>
     </item>
     
