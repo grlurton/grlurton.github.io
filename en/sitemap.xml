@@ -242,6 +242,18 @@
     
     <url>
     
+      <xhtml:link rel="alternate" href="https://grlurton.github.io/post/nourriture-spirituelle/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="https://grlurton.github.io/fr/post/nourriture-spirituelle/" hreflang="fr"/>
+    
+      <loc>https://grlurton.github.io/post/nourriture-spirituelle/</loc>
+      <lastmod>2011-05-06T12:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://grlurton.github.io/talk/2011_addis_madagascar_talk/</loc>
       <lastmod>2011-02-01T10:29:01-08:00</lastmod>
     </url>
@@ -298,6 +310,18 @@
     
       <loc>https://grlurton.github.io/publication/2011_vih/</loc>
       <lastmod>2011-01-01T00:00:00-08:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="https://grlurton.github.io/post/tisserand/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="https://grlurton.github.io/fr/post/tisserand/" hreflang="fr"/>
+    
+      <loc>https://grlurton.github.io/post/tisserand/</loc>
+      <lastmod>2010-04-28T12:00:00+00:00</lastmod>
     </url>
     
   
@@ -397,8 +421,8 @@
     
     <url>
     
-      <loc>https://grlurton.github.io/publication_types/2/</loc>
-      <lastmod>2016-11-15T00:00:00-08:00</lastmod>
+      <loc>https://grlurton.github.io/talks_types/2/</loc>
+      <lastmod>2014-10-28T00:00:00-07:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -407,8 +431,8 @@
     
     <url>
     
-      <loc>https://grlurton.github.io/talks_types/2/</loc>
-      <lastmod>2014-10-28T00:00:00-07:00</lastmod>
+      <loc>https://grlurton.github.io/publication_types/2/</loc>
+      <lastmod>2016-11-15T00:00:00-08:00</lastmod>
       <priority>0</priority>
     </url>
     

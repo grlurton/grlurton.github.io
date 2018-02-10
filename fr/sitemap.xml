@@ -5,6 +5,9 @@
     
     <url>
     
+      <xhtml:link rel="alternate" href="https://grlurton.github.io/fr/post/nourriture-spirituelle/" hreflang="fr"/>
+      <xhtml:link rel="alternate" href="https://grlurton.github.io/post/nourriture-spirituelle/" hreflang="en"/>
+    
       <loc>https://grlurton.github.io/fr/post/nourriture-spirituelle/</loc>
       <lastmod>2011-05-06T12:00:00+00:00</lastmod>
     </url>
@@ -13,6 +16,9 @@
     
     
     <url>
+    
+      <xhtml:link rel="alternate" href="https://grlurton.github.io/fr/post/tisserand/" hreflang="fr"/>
+      <xhtml:link rel="alternate" href="https://grlurton.github.io/post/tisserand/" hreflang="en"/>
     
       <loc>https://grlurton.github.io/fr/post/tisserand/</loc>
       <lastmod>2010-04-28T12:00:00+00:00</lastmod>
@@ -36,7 +42,7 @@
     <url>
     
       <loc>https://grlurton.github.io/fr/tags/citation/</loc>
-      <lastmod>2011-05-06T12:00:00+00:00</lastmod>
+      <lastmod>2010-04-28T12:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -97,7 +103,7 @@
       <xhtml:link rel="alternate" href="https://grlurton.github.io/tags/" hreflang="en"/>
     
       <loc>https://grlurton.github.io/fr/tags/</loc>
-      <lastmod>2011-05-06T12:00:00+00:00</lastmod>
+      <lastmod>2010-04-28T12:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
