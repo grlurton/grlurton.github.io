@@ -11,6 +11,20 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Exploring the interface between local and global Health Metrics</title>
+      <link>https://grlurton.github.io/project/x2017_interfacing_local_and_global/</link>
+      <pubDate>Fri, 09 Feb 2018 21:19:37 -0800</pubDate>
+      
+      <guid>https://grlurton.github.io/project/x2017_interfacing_local_and_global/</guid>
+      <description>&lt;p&gt;Global Health as a field relies on the articulation of global and local levels of knowledge production. While the data needs and data cultures are different at each of these level, they utilize the same information infrastructure, and share data, tools and methods codified by emerging fields such as Implementation Science or Monitoring and Evaluation.&lt;/p&gt;
+
+&lt;p&gt;Meanwhile, the definition and development of these elements have long term impacts on the organization of national statistical and health systems. In this regard, the diffusion of norms and standards defined at a global level for local utilization should be questioned for the ways in which they prevent local actors to define local norms or develop specific analytical approaches. In the meantime, if the perverse effects of the use of quantified indicators in governance is sometimes presented as inherent to any quantitative work, there should be a place for statisticians and data scientists to offer an inner critique of the ethical and political dimensions of measurement, aimed at improving current practices.&lt;/p&gt;
+
+&lt;p&gt;Describing the organization of computational work in low resource health systems I analyze the political and ethical implications of this organization. I also develop computational approaches aimed at rebalancing the distribution of power in the technical that is Global Health.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>How to build Global Health Knowledge: norming or aggregation?</title>
       <link>https://grlurton.github.io/talk/2017_ehess/</link>
       <pubDate>Tue, 24 Oct 2017 00:01:54 -0800</pubDate>
@@ -165,15 +179,6 @@ Strengthening team in &lt;a href=&#34;https://www.go2itech.org/&#34; target=&#34
       <pubDate>Tue, 22 May 2012 13:46:15 -0800</pubDate>
       
       <guid>https://grlurton.github.io/publication/2012_transcriptase_couts/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Strengthening Health Information Systems for HIV/AIDS care in Low Resource Countries - Experience of French NGO Solthis</title>
-      <link>https://grlurton.github.io/talk/2012_uw_seminar/</link>
-      <pubDate>Mon, 12 Mar 2012 00:01:54 -0800</pubDate>
-      
-      <guid>https://grlurton.github.io/talk/2012_uw_seminar/</guid>
       <description></description>
     </item>
     
